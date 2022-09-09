@@ -1,0 +1,10 @@
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\bin\Debug\Equiring_Application.exe.config
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\bin\Debug\Equiring_Application.exe
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\bin\Debug\Equiring_Application.pdb
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.Properties.Resources.resources
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.csproj.GenerateResource.cache
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.exe
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.pdb
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.Form1.resources
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.csprojAssemblyReference.cache
+C:\Users\Superadmin\Equiring\course_project\Equiring_Application\Equiring_Application\obj\Debug\Equiring_Application.Form2.resources

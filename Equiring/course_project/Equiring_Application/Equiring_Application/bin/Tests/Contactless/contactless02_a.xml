@@ -1,0 +1,18 @@
+
+<contactless>
+	<applications>
+		<application aid="A000000003" legend="VISA">
+			<configuration>
+				<tag name="9F06" legend ="ADF Name">A0000000031011</tag>
+				<tag name="9F35" legend="Terminal Type">22</tag>
+				<tag name="9F66" legend="Terminal Transaction Qualifiers">21800000</tag>
+				<tag name="9F40" legend="Additional Terminal Capabilities">0200000000</tag>				
+				<tag name="9F1A" legend ="Terminal Country Code">0007</tag>
+				<tag name="9A" legend="Transaction Date">200101</tag>
+				<tag name="9F21" legend="Transaction Time">000001</tag>
+				<tag name="DF8123" legend="Reader Contactless Floor Limit">000000001400</tag>
+				<tag name="9F1B" legend="Terminal Floor Limit">00000000</tag>
+			</configuration>
+		</application>
+	</applications>	
+</contactless>

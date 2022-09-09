@@ -1,0 +1,20 @@
+
+<contact>
+	<applications>
+		<application aid="A000000003" legend="VISA">
+			<configuration>
+				<tag name="9F06" legend ="Application Identifier">A0000000031011</tag>
+				<tag name="9F35" legend="Terminal Type">22</tag>
+				<tag name="9F33" legend="Terminal Capabilities">200080</tag>
+				<tag name="9F40" legend="Additional Terminal Capabilities">0200F00000</tag>
+				<tag legend="TAC—Denial">0010000000</tag>
+				<tag legend="TAC—Default">DC4000A800</tag>
+				<tag legend="TAC—Online">DC4004F800</tag>
+				<tag name="9F1A" legend ="Terminal Country Code">0007</tag>
+				<tag name="9A" legend="Transaction Date">200101</tag>
+				<tag name="9F21" legend="Transaction Time">000001</tag>
+				<tag name="9F1B" legend="Terminal Floor Limit">0000001A</tag>
+			</configuration>
+		</application>
+	</applications>
+</contact>
